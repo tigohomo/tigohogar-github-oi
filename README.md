@@ -1,2 +1,1 @@
 # tigohogar-hithub-oi
-tigo
